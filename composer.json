@@ -1,5 +1,5 @@
 {
-    "name": "jmillerdesign/minifyhtml",
+    "name": "jmillerdesign/minify_html",
     "type": "cakephp-plugin",
     "description": "This is a plugin for CakePHP to minify the HTML output.",
     "keywords": [
